@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Name": "Qupen",
+    "Description": "Bosh o'g'rig'i",
+    "Soni": 130,
+    "SotilganSoni": 10,
+    "Turi": 2,
+    "IshlabCHiqarilganSanasi": "2020-04-12",
+    "YaroqlilikMuddati": "2023-05-12"
+  },
+  {
+    "Id": 2,
+    "Name": "Qupen2",
+    "Description": "Bosh o'g'rig'i",
+    "Soni": 58,
+    "SotilganSoni": 2,
+    "Turi": 2,
+    "IshlabCHiqarilganSanasi": "2020-04-12",
+    "YaroqlilikMuddati": "2023-03-12"
+  },
+  {
+    "Id": 5,
+    "Name": "Trimol",
+    "Description": "Og'riq qoldiradi",
+    "Soni": 48,
+    "SotilganSoni": 2,
+    "Turi": 2,
+    "IshlabCHiqarilganSanasi": "2020-12-12",
+    "YaroqlilikMuddati": "2023-12-12"
+  },
+  {
+    "Id": 3,
+    "Name": "Omez",
+    "Description": "Qorin o'g'rig'iga",
+    "Soni": 49,
+    "SotilganSoni": 1,
+    "Turi": 2,
+    "IshlabCHiqarilganSanasi": "2022-12-12",
+    "YaroqlilikMuddati": "2023-04-01"
+  },
+  {
+    "Id": 6,
+    "Name": "Izofluran",
+    "Description": "ingalatsiya uchun eritma 100 ml; 250 ml",
+    "Soni": 96,
+    "SotilganSoni": 4,
+    "Turi": 3,
+    "IshlabCHiqarilganSanasi": "2020-03-05",
+    "YaroqlilikMuddati": "2023-03-20"
+  },
+  {
+    "Id": 4,
+    "Name": "Galotan",
+    "Description": "ingalatsiya uchun eritma 250 ml",
+    "Soni": 79,
+    "SotilganSoni": 1,
+    "Turi": 3,
+    "IshlabCHiqarilganSanasi": "2023-01-01",
+    "YaroqlilikMuddati": "2025-01-01"
+  },
+  {
+    "Id": 7,
+    "Name": "Natriy oksibutirat",
+    "Description": "inyeksiya uchun eritma 200 mg/ml",
+    "Soni": 50,
+    "SotilganSoni": 0,
+    "Turi": 4,
+    "IshlabCHiqarilganSanasi": "2022-01-01",
+    "YaroqlilikMuddati": "2023-04-01"
+  },
+  {
+    "Id": 8,
+    "Name": "Fenobarbital",
+    "Description": "tabletkalar 100 mg",
+    "Soni": 99,
+    "SotilganSoni": 51,
+    "Turi": 2,
+    "IshlabCHiqarilganSanasi": "2023-01-01",
+    "YaroqlilikMuddati": "2025-01-01"
+  },
+  {
+    "Id": 9,
+    "Name": "alproat kislotasi / valproat natriy",
+    "Description": "bolalarga ichish uchun sirop 50 mg/ml",
+    "Soni": 5,
+    "SotilganSoni": 95,
+    "Turi": 4,
+    "IshlabCHiqarilganSanasi": "2022-01-01",
+    "YaroqlilikMuddati": "2023-03-20"
+  }
+]

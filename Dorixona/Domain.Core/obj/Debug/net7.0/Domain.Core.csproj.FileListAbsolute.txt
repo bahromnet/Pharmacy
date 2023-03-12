@@ -1,0 +1,12 @@
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\bin\Debug\net7.0\Domain.Core.deps.json
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\bin\Debug\net7.0\Domain.Core.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\bin\Debug\net7.0\Domain.Core.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.csproj.AssemblyReference.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.AssemblyInfoInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.AssemblyInfo.cs
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.csproj.CoreCompileInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\refint\Domain.Core.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\Domain.Core.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Domain.Core\obj\Debug\net7.0\ref\Domain.Core.dll

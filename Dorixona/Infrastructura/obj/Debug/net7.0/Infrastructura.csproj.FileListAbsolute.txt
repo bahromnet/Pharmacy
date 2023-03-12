@@ -1,0 +1,15 @@
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.csproj.AssemblyReference.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.AssemblyInfoInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.AssemblyInfo.cs
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.csproj.CoreCompileInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\bin\Debug\net7.0\Infrastructura.deps.json
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\bin\Debug\net7.0\Infrastructura.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\bin\Debug\net7.0\Infrastructura.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\bin\Debug\net7.0\Domain.Core.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\bin\Debug\net7.0\Domain.Core.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.csproj.CopyComplete
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\refint\Infrastructura.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\Infrastructura.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\Dorixona\Infrastructura\obj\Debug\net7.0\ref\Infrastructura.dll
